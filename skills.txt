@@ -1,0 +1,11 @@
+Навыки:
+
+1. Терминал, gitbash
+
+2. Git, github, git merge
+
+3. JS
+
+4. Postman
+
+5. SQL
